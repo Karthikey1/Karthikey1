@@ -1,5 +1,12 @@
 Karthikey D Kadati
+ISE @ UVCE (2027) | PR Lead, E-Cell UVCE
 
-ISE Junior @ UVCE | E-Cell PR Lead
+I focus on low-level systems and kernel development. Most of my engineering work happens upstream on the RTEMS Project infrastructure.
 
-This GitHub profile is utilized for university labs, reference forks, and experimental scripts; it is not my primary development hub and does not reflect my core technical work. My primary systems engineering, specifically RTEMS 7 SMP kernel contributions, multiprocessor locking primitives (FMLP/DFLP), and formal verification models is hosted on the project's internal GitLab.
+Currently, I'm working on RTEMS 7 SMP-specifically porting the Flexible Multiprocessor Locking Protocol (FMLP) to the SuperCore and fixing processor dispatch symmetry issues. I also use the SPIN model checker (Promela) to formally verify locking primitives and task migration logic.
+
+Outside of core engineering, I lead the PR team at E-Cell UVCE, managing campus branding and guest engagements. This GitHub is mostly a staging ground for university labs, experimental scripts, and forks. Check my GitLab or portfolio for the core work.
+
+Portfolio: https://karthikeykadati.com/
+Upstream Work: https://gitlab.rtems.org/karthikey_kadati
+LinkedIn: https://www.linkedin.com/in/karthikey-kadati
